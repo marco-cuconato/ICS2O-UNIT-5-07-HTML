@@ -17,3 +17,21 @@
  * Input.
  */
 
+function buttonClicked() {
+  
+  const integer = document.getElementById("integer").value
+  var integerValue = 0
+  var answer = 0
+
+  if (integer >= 0) {
+    for (let count = 0; count < integer; count++) {
+      integerValue++
+      answer = answer + integerValue
+    }
+  } else 
+    for (let count = 0; count > integer; count--) {
+      integerValue--
+      answer = answer + integerValue
+    }
+    document.getElementById("output").innerHTML = answer
+}
