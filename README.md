@@ -1,4 +1,4 @@
-[![Mr Coxall's Super Linter](https://github.com/marco-cuconato/ICS2O-UNIT5-07-HTML/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/marco-cuconato/ICS2O-UNIT5-07-HTML/actions)
+[![marco-cuconato Super Linter](https://github.com/marco-cuconato/ICS2O-UNIT5-07-HTML/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/marco-cuconato/ICS2O-UNIT5-07-HTML/actions)
 
 
 
